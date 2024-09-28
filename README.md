@@ -1,2 +1,7 @@
-# Shashank-day-2
-java.shashank
+class Hello
+{
+public static void main(String args[])
+{
+System.out.println("Hello World!");
+}
+}
